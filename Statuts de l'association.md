@@ -105,5 +105,5 @@ Fait à Lille le 16/04/2023
 
 | Théo Tricot, Trésorier                                        | Romain Spychala, Président et Secrétaire                              |
 | ------------------------------------------------------------- | --------------------------------------------------------------------- |
-| ![Signature de Théo Tricot](Projets/Association/Documents/images/signature_theo_tricot.png) | ![Signature de Romain Spychala](Projets/Association/Documents/images/signature_romain_spychala.png) |
+| ![Signature de Théo Tricot](images/signature_theo_tricot.png) | ![Signature de Romain Spychala](images/signature_romain_spychala.png) |
 
